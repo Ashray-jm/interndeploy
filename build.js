@@ -8,6 +8,8 @@ var dir = path.join(process.cwd(), 'node_modules/hue-name')
 
 var isWin = process.platform === 'win32'
 
+
+
 function runBackBuild() {
 
 	console.log(' 3/3 - Packaging Application')
